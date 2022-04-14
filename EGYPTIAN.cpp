@@ -52,6 +52,22 @@ main()
 	eg.Egyptian(", Egyptian Representation is --> ");
 	cout<<"\n\n";
 }
+/*
+Sample Output - 1 ::
 
+Enter Numerator --> 3
 
+Enter Denominator --> 5
+
+For 3/5, Egyptian Representation is --> 1/2 + 1/10
+--------------------------------------------------------------------
+Sample Output - 2 ::
+
+Enter Numerator --> 3
+
+Enter Denominator --> 7
+
+For 3/7, Egyptian Representation is --> 1/3 + 1/11 + 1/231
+
+*/
 
